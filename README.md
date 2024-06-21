@@ -1,25 +1,25 @@
 # weather-forecast-application-
-
-Task: Weather Forecast Application
-Background
+<br/>
+Task: Weather Forecast Application<br/>
+Background<br/>
 You are working on a platform to provide weather forecasts to users based on their selected city. Assume there is an external provider of weather data that supplies information about various cities' weather conditions. Your job is to process the user input and provide a detailed weather forecast based on the selected city.
-
-External Weather Data
+<br/>
+External Weather Data<br/>
 The data returned by the external weather provider is in the following format:
-
-json
-Copy code
-[
-  {"city": "New York", "temperature": 25, "condition": "Sunny", "humidity": 50, "windSpeed": 10},
-  {"city": "Los Angeles", "temperature": 22, "condition": "Cloudy", "humidity": 60, "windSpeed": 5},
-  {"city": "Chicago", "temperature": 18, "condition": "Rainy", "humidity": 70, "windSpeed": 15},
-  ...
-]
-Task
+<br/>
+json<br/>
+Copy code<br/>
+[<br/>
+  {"city": "New York", "temperature": 25, "condition": "Sunny", "humidity": 50, "windSpeed": 10},<br/>
+  {"city": "Los Angeles", "temperature": 22, "condition": "Cloudy", "humidity": 60, "windSpeed": 5},<br/>
+  {"city": "Chicago", "temperature": 18, "condition": "Rainy", "humidity": 70, "windSpeed": 15},<br/>
+  ...<br/>
+]<br/>
+Task<br/>
 Create two applications to complete this challenge. The first application (backend) must contain the algorithm to process the data coming from the external weather provider and deliver it as a RESTful application. The second application (frontend) must consume the data coming from the first application and display it in a web application.
-
-Requirements
-Backend Application:
+<br/>
+Requirements<br/>
+Backend Application:<br/>
 
 Must accept the following input parameter:
 City name
