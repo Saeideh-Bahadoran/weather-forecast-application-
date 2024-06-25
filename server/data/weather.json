@@ -1,0 +1,37 @@
+[
+  {
+    "city": "New York",
+    "temperature": 25,
+    "condition": "Sunny",
+    "humidity": 50,
+    "windSpeed": 10
+  },
+  {
+    "city": "Los Angeles",
+    "temperature": 22,
+    "condition": "Cloudy",
+    "humidity": 60,
+    "windSpeed": 5
+  },
+  {
+    "city": "Chicago",
+    "temperature": 18,
+    "condition": "Rainy",
+    "humidity": 70,
+    "windSpeed": 15
+  },
+  {
+    "city": "Berlin",
+    "temperature": 8,
+    "condition": "Rainy",
+    "humidity": 70,
+    "windSpeed": 20
+  },
+  {
+    "city": "Hamburg",
+    "temperature": 18,
+    "condition": "Sunny",
+    "humidity": 20,
+    "windSpeed": 11
+  }
+]
